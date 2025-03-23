@@ -1,5 +1,6 @@
 # SpiritBox: BLE & RF Jammer Project
 
+![Stars](https://img.shields.io/github/stars/RubberPirate/spiritbox)
 ![Project Status](https://img.shields.io/badge/Status-Experimental-yellow)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
