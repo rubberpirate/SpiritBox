@@ -74,11 +74,11 @@ SpiritBox is an advanced BLE (Bluetooth Low Energy) and RF jammer built on the E
 | VCC | 3.3V |
 | GND | GND |
 
-### 🔘 Mode Switch
-| Function | ESP32 Pin |
+### 🔘 Battery - Compact Build
+| Power | ESP32 Pin |
 |----------|-----------|
-| Switch | GPIO27 |
-| GND | GND |
+| Positive (+) | VCC |
+| Negative (-) | GND |
 
 ## 💻 Software Dependencies
 
