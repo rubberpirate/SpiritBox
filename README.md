@@ -123,7 +123,6 @@ The following parameters can be modified in the code:
 - 🌐 WebSocket interface for remote control
 - 🧠 Enhanced pattern recognition for targeted jamming
 - 📊 Spectrum analyzer functionality
-- 🤖 Machine learning for adaptive interference patterns
 
 ## ❓ Troubleshooting
 
