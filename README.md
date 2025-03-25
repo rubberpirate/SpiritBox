@@ -44,42 +44,6 @@ SpiritBox is an advanced BLE (Bluetooth Low Energy) and RF jammer built on the E
   <img src="images/Wiring.png" alt="SpiritBox Wiring Diagram" />
 </p>
 
-### 📺 OLED Display Connection
-| Function | ESP32 Pin |
-|----------|-----------|
-| SDA | GPIO21 |
-| SCL | GPIO22 |
-| VCC | 3.3V |
-| GND | GND |
-
-### 📡 NRF24L01 - HSPI Bus
-| NRF24 Pin | ESP32 Pin |
-|-----------|-----------|
-| CE | GPIO26 |
-| CNS | GPIO15 |
-| SCK | GPIO14 |
-| MOSI | GPIO13 |
-| MISO | GPIO12 |
-| VCC | 3.3V |
-| GND | GND |
-
-### 📡 NRF24L01 - VSPI Bus
-| NRF24 Pin | ESP32 Pin |
-|-----------|-----------|
-| CE | GPIO4 |
-| CNS | GPIO2 |
-| SCK | GPIO18 |
-| MOSI | GPIO23 |
-| MISO | GPIO19 |
-| VCC | 3.3V |
-| GND | GND |
-
-### 🔘 Battery - Compact Build
-| Power | ESP32 Pin |
-|----------|-----------|
-| Positive (+) | VCC |
-| Negative (-) | GND |
-
 ## 💻 Software Dependencies
 
 - 🔧 Arduino IDE (1.8.x or later)
