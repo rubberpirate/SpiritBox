@@ -175,12 +175,6 @@ The following parameters can be modified in the code:
 Contributions to this educational project are welcome. Please open an issue or submit a pull request with your improvements.
 
 
-## 🙏 Acknowledgments
-
-- Thanks to the RF24 library contributors
-- ESP32 community for their excellent documentation
-- Cybersecurity researchers exploring IoT vulnerabilities ethically
-
 ---
 
 *✨ Remember: With great power comes great responsibility. Use this knowledge ethically. ✨*
