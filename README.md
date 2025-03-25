@@ -56,7 +56,7 @@ SpiritBox is an advanced BLE (Bluetooth Low Energy) and RF jammer built on the E
 | NRF24 Pin | ESP32 Pin |
 |-----------|-----------|
 | CE | GPIO26 |
-| CSN | GPIO15 |
+| CNS | GPIO15 |
 | SCK | GPIO14 |
 | MOSI | GPIO13 |
 | MISO | GPIO12 |
@@ -67,7 +67,7 @@ SpiritBox is an advanced BLE (Bluetooth Low Energy) and RF jammer built on the E
 | NRF24 Pin | ESP32 Pin |
 |-----------|-----------|
 | CE | GPIO4 |
-| CSN | GPIO2 |
+| CNS | GPIO2 |
 | SCK | GPIO18 |
 | MOSI | GPIO23 |
 | MISO | GPIO19 |
