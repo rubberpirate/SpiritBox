@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 <p align="center">
-  <img src="/api/placeholder/800/400" alt="SpiritBox Project" />
+  <img src="images/banner.png" alt="SpiritBox Project" />
 </p>
 
 ## ⚠️ Educational Purpose Only
