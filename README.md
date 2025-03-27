@@ -66,8 +66,9 @@ SpiritBox is an advanced BLE (Bluetooth Low Energy) and RF jammer built on the E
 5. Select "ESP32 Dev Module" from the Board menu
 6. Upload the sketch to your ESP32
 
-<p align="center">
-  <img src="/api/placeholder/600/300" alt="SpiritBox Assembly" />
+<p float="left" align="center">
+  <img width="300" height="460" src="images/build.jpg" alt="SpiritBox Assembly" />
+  <img width="400" height="460" src="images/back.jpg" alt="SpiritBox Assembly" />
 </p>
 
 ## 🎮 Operation Modes
