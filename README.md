@@ -10,7 +10,7 @@
 </p>
 
 ## ⚠️ Educational Purpose Only
-
+> [!WARNING]
 This project is designed **strictly for educational and research purposes** to demonstrate RF security concepts and the vulnerabilities in wireless communications. Using this device for disrupting legitimate communications is illegal in most jurisdictions.
 
 ## 🌟 Overview
@@ -141,5 +141,5 @@ Contributions to this educational project are welcome. Please open an issue or s
 
 
 ---
-
-*✨ Remember: With great power comes great responsibility. Use this knowledge ethically. ✨*
+> [!IMPORTANT]
+>*✨ Remember: With great power comes great responsibility. Use this knowledge ethically. ✨*
