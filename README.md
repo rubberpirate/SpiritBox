@@ -86,8 +86,8 @@ SpiritBox is an advanced BLE (Bluetooth Low Energy) and RF jammer built on the E
 ## 📺 OLED Interface
 
 <p float="left" align="center">
-  <img width="250" height="150" src="images/oled1.jpg" alt="SpiritBox Assembly" />
-  <img width="250" height="150" src="images/oled2.jpg" alt="SpiritBox Assembly" />
+  <img width="380" height="250" src="images/oled1.jpg" alt="SpiritBox Assembly" />
+  <img width="380" height="250" src="images/oled2.jpg" alt="SpiritBox Assembly" />
 </p>
 
 The OLED display shows:
