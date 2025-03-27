@@ -67,8 +67,8 @@ SpiritBox is an advanced BLE (Bluetooth Low Energy) and RF jammer built on the E
 6. Upload the sketch to your ESP32
 
 <p float="left" align="center">
-  <img width="300" height="460" src="images/build.jpg" alt="SpiritBox Assembly" />
-  <img width="400" height="460" src="images/back.jpg" alt="SpiritBox Assembly" />
+  <img width="290" height="460" src="images/build.jpg" alt="SpiritBox Assembly" />
+  <img width="520" height="460" src="images/back.jpg" alt="SpiritBox Assembly" />
 </p>
 
 ## 🎮 Operation Modes
@@ -85,8 +85,9 @@ SpiritBox is an advanced BLE (Bluetooth Low Energy) and RF jammer built on the E
 
 ## 📺 OLED Interface
 
-<p align="center">
-  <img src="/api/placeholder/400/200" alt="OLED Display Interface" />
+<p float="left" align="center">
+  <img width="250" height="150" src="images/oled1.jpg" alt="SpiritBox Assembly" />
+  <img width="250" height="150" src="images/oled2.jpg" alt="SpiritBox Assembly" />
 </p>
 
 The OLED display shows:
